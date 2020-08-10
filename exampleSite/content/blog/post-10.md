@@ -1,167 +1,37 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
+title: Conoce a The QA Mom
+date: 2020-08-10T02:47:47+00:00
+image: images/post/post-1.jpg
+description: Primer Post
+categories: []
+tags: []
+type: post
 
-# post thumb
-image: "images/post/post-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "Go Language"
-tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
-
-# post type
-type: "post"
 ---
+# Conoce a The QA Mom
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+Hace varios años descubrí que me encanta escribir, al igual que hablar!   
+Se desde mi perspectiva personal que hay muchas áreas en las que debo mejorar tanto como ser humano y profesional, pero quisiera compartir mi camino para llegar a esa meta con el mundo y las personas que quieran acompañarme en ese camino.   
+  
+Me llamo Karla Mata un gusto en que hayas encontrado este espacio.
 
-<hr>
+Soy mamá y en medio de esta cuarentena se han desarrollado mis skills de maestra increíblemente, tengo una serie de tips y actividades que podrían ser de valor para esas mamitas que se encuentran pasando por la misma situación.   
+  
+Mis dos hijos han cambiado mi vida rotundamente, se los presento brevemente, Fede es un niño de corazón de oro, tiene 6 años, ilumina un cuarto y la vida de las personas que lo conocen, estoy sumamente orgullosa de él y su progreso.   
+  
+Como todo viaje no ha sido del todo fácil y hace poco más de 2 años mi segundo bebé Adam murió debido a una serie de complicaciones de salud, en ese momento la vida se nos hizo de cuadritos, tratamos de sobrellevar la pérdida día con día a nivel familiar.
 
-##### Emphasis
+A nivel profesional me desarrollo como QA Lead en una empresa que brinda outsourcing, actualmente trabajo con productos diseñados en 3D (un chuzo!), en síntesis amo lo que hago y además trato de colaborar internamente en el desarrollo de iniciativas para ayudar y generar contenido de valor para la unidad!   
+  
+Además formó parte de varias comunidades como lo es TestingCR en donde soy Co-Administradora y SWE Costa Rica donde mi responsabilidad es el manejo de las redes sociales.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+  
+Me considero una persona proactiva e interesada en compartir información de valor tanto a nivel profesional como personal con las personas que me rodean, espero que este espacio sea de ayuda!!   
+  
+Si quieres conocer mas de mi y mi familia te invito a seguirnos en cualquier red social!
 
 <hr>
 
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+" Si te rodeas de personas que son Luz, lo verás todo más claro"
 
 <hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
