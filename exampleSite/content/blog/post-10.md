@@ -5,7 +5,7 @@ image: images/post/post-1.jpg
 description: Primer Post
 categories: []
 tags: []
-type: feature
+type: featured
 
 ---
 # Conoce a The QA Mom
