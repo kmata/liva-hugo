@@ -1,7 +1,7 @@
 ---
 title: Conoce a The QA Mom
-date: 2020-08-10T02:47:47+00:00
-image: images/post/post-1.jpg
+date: 2020-08-10T02:47:47.000+00:00
+image: images/post/QA-Mom-logo.png
 description: Primer Post
 categories: []
 tags: []
