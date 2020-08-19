@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2019-10-29T13:49:23.000+06:00
-image: images/author.jpg
+image: images/author.png
 description: this is meta description
 
 ---
@@ -19,4 +19,4 @@ Claro esta también hablaré un poco de mi profesion y de mi camino tal vez a al
   
 Será un repo gigante de muchos temas, así lo imagino! 
 
-Y que gusto tenerte por acá! 
+Y que gusto tenerte por acá!
