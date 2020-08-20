@@ -14,6 +14,9 @@ Saludos,
 
 ***
 
+  
+Hi, 
+
 If you want a specific topic or have any doubts you can send me an email or we can chat by Skype!
 
 Regards,
