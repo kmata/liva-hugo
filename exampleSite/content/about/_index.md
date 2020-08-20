@@ -19,4 +19,4 @@ También hablaré un poco de mi profesion, vida cotidiana, tips y de mi camino g
 
 Será un repo gigante de muchos temas, así lo imagino y espero que a vos o a un conocido le pueda funcionar! 
 
-Que gusto tenerte por acá! 
+Que gusto tenerte por acá!
