@@ -10,7 +10,7 @@ Si deseas algún tema en especifico o tienes alguna duda puedes escribir al corr
 
 Saludos,
 
-    <br> <hr> <br>
+    
 
 Hello,
 
