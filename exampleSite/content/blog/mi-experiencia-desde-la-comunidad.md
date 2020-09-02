@@ -2,7 +2,6 @@
 categories = []
 date = 2020-08-10T02:47:47Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Mi experiencia desde la comunidad"
