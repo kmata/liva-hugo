@@ -29,6 +29,18 @@ Pues si, en esa charla ella hablaba de SWE, yo no conocía de la comunidad y ade
 
 Después de ese primer contacto trate de apoyar a la comunidad en todo lo que estuviera a mi alcance, hoy en día soy responsable de las redes sociales de la comunidad y además apoyo a las demás áreas, somos un grupo de mujeres extraordinarias realmente y cada quien con una historia marcada. Los invito a seguirnos de paso!
 
-Después de haber ingresado mi esposo forma parte de TestingCR desde el comienzo y me invita a acompañarlo a Uruguay a realizar una presentación acerca de Cypress.io su primera presentación fuera de Costa Rica. Claro yo amo viajar pero detesto las alturas sobre todas las cosas del mundo. Y bueno ese viaje sería la primera vez que volaba más de 3 horas, era hacia el lado contrario y en mi cabeza todos los temores de dejar a Fede con los abuelos llegaban, en un inicio dije que no! Pero obvio al final acepté, él regresaba de un viaje de la empresa en donde laboraba y ese mismo día viajamos a Uruguay, a la convención de TestingUY. Después de ese viaje me involucre en la comunidad y ha pasado un año desde entonces, en ella coordino charlas, me involucro en los social media y realizó conexiones con compañías para llevar meetups presenciales.
+![](images/SWE.jpg)
 
-Cada una de estas comunidades ha marcado mi crecimiento personal de maneras que no les puedo explicar, cada una tiene un gran espacio en mi corazón. Tal vez no sea la mas visual dentro de ellas, pero me encanta conectar con las personas y ser un granito de arena para lograr un cambio o ayudarlas en su propio camino.
+Después de haber ingresado a SWE mi esposo me invita a acompañarlo a Uruguay a realizar una presentación acerca de Cypress.io, su primera presentación fuera de Costa Rica. Claro, yo amo viajar pero detesto las alturas sobre todas las cosas del mundo.   
+Y bueno ese viaje sería la primera vez que volaba más de 3 horas, era hacia el lado contrario y en mi cabeza todos los temores de dejar a Fede con los abuelos llegaban, en un inicio dije que no! Pero obvio al final acepté, él regresaba de un viaje de la empresa en donde laboraba y ese mismo día viajamos a Uruguay, a la convención de TestingUY. En Uruguay conocí personas super amables y con experiencias invaluables. 
+
+Después de ese viaje me involucre en la comunidad y ha pasado un año desde entonces, en ella coordino charlas, me involucro en los social media y realizó conexiones con compañías para llevar meetups presenciales. 
+
+![](images/TestingCR.png)
+
+Cada una de estas comunidades ha marcado mi crecimiento personal de maneras que no les puedo explicar, cada una tiene un gran espacio en mi corazón. Me encanta conectar con las personas y ser un granito de arena para lograr un cambio o ayudarlas en su propio camino.
+
+Acá les dejo las redes sociales para que nos sigan: 
+
+SWE Costa Rica: [https://www.facebook.com/swecostarica](https://www.facebook.com/swecostarica "https://www.facebook.com/swecostarica")  
+TestingCR: [https://www.facebook.com/testingcr](https://www.facebook.com/testingcr "https://www.facebook.com/testingcr")
