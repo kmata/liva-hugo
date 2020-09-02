@@ -1,9 +1,9 @@
 +++
-categories = ["Comunidades", "SoftSkills"]
+categories = []
 date = 2020-09-03T02:47:47Z
 description = "Mi experiencia desde la comunidad"
 image = "images/SWW.jpg"
-tags = ["Comunidades"]
+tags = []
 title = "Mi experiencia desde la comunidad"
 type = "post"
 
