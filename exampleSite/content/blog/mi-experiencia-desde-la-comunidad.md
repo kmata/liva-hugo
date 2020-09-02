@@ -1,6 +1,6 @@
 +++
 categories = ["Comunidades", "SoftSkills"]
-date = 2020-08-10T02:47:47Z
+date = 2020-09-03T02:47:47Z
 description = ""
 image = ""
 tags = ["Comunidades"]
