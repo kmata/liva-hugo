@@ -5,7 +5,7 @@ description = ""
 image = ""
 tags = []
 title = "Mi experiencia desde la comunidad"
-type = "featured"
+type = "post"
 
 +++
 # Mi experiencia desde la comunidad
