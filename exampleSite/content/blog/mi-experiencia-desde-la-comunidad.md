@@ -1,7 +1,7 @@
 +++
 categories = ["Comunidades", "SoftSkills"]
 date = 2020-09-03T02:47:47Z
-description = ""
+description = "Mi experiencia desde la comunidad"
 image = ""
 tags = ["Comunidades"]
 title = "Mi experiencia desde la comunidad"
