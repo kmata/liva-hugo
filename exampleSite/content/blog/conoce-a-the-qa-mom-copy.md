@@ -1,7 +1,7 @@
 +++
-categories = []
-date = 2020-08-10T02:47:47Z
-description = "Primer Post"
+categories = ["QA"]
+date = 2020-09-04T02:47:47Z
+description = "QA desde la comunidad"
 image = "images/SWE.jpg"
 tags = []
 title = "QA desde la comunidad"
