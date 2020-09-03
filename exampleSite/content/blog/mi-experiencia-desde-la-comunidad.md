@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2020-09-03T02:47:47Z
+date = 2020-09-04T02:47:47Z
 description = "Mi experiencia desde la comunidad"
 image = "images/SWW.jpg"
 tags = []
