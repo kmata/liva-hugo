@@ -2,7 +2,7 @@
 categories = []
 date = 2020-08-10T02:47:47Z
 description = "Primer Post"
-image = "images/post/QA-Mom-logo.png"
+image = "images/post/SWE.jpg"
 tags = []
 title = "QA desde la comunidad"
 type = "post"
@@ -10,27 +10,36 @@ type = "post"
 +++
 # QA desde la comunidad
 
-Hace varios años descubrí que me encanta escribir, al igual que hablar!  
-Se desde mi perspectiva personal que hay muchas áreas en las que debo mejorar tanto como ser humano y profesional, pero quisiera compartir mi camino para llegar a esa meta con el mundo y las personas que quieran acompañarme en ese camino.
+<hr>
 
-Me llamo Karla Mata un gusto en que hayas encontrado este espacio.
-
-Soy mamá y en medio de esta cuarentena se han desarrollado mis skills de maestra increíblemente, tengo una serie de tips y actividades que podrían ser de valor para esas mamitas que se encuentran pasando por la misma situación.
-
-Mis dos hijos han cambiado mi vida rotundamente, se los presento brevemente, Fede es un niño de corazón de oro, tiene 6 años, ilumina un cuarto y la vida de las personas que lo conocen, estoy sumamente orgullosa de él y su progreso.
-
-Como todo viaje no ha sido del todo fácil y hace poco más de 2 años mi segundo bebé Adam murió debido a una serie de complicaciones de salud, en ese momento la vida se nos hizo de cuadritos, tratamos de sobrellevar la pérdida día con día a nivel familiar.
-
-A nivel profesional me desarrollo como QA Lead en una empresa que brinda outsourcing, actualmente trabajo con productos diseñados en 3D (un chuzo!), en síntesis amo lo que hago y además trato de colaborar internamente en el desarrollo de iniciativas para ayudar y generar contenido de valor para la unidad!
-
-Además formó parte de varias comunidades como lo es TestingCR en donde soy Co-Administradora y SWE Costa Rica donde mi responsabilidad es el manejo de las redes sociales.
-
-Me considero una persona proactiva e interesada en compartir información de valor tanto a nivel profesional como personal con las personas que me rodean, espero que este espacio sea de ayuda!!
-
-Si quieres conocer mas de mi y mi familia te invito a seguirnos en cualquier red social!
+> El futuro pertenece a quienes creen en la belleza de sus sueños  
+> Amelia Earhar
 
 <hr>
 
-> Si te rodeas de personas que son Luz, lo verás todo más claro!
+Hoy les quiero contar un poco de mi experiencia en el apoyo de varias comunidades a nivel latinoamericano, actualmente formo parte de 2 a nivel de Costa Rica y apoyo a varias comunidades de sudamérica, hace unos días interactúe con líderes de comunidades mexicanas, pero despues les doy detalles de eso.
 
-<hr>
+SWE Costa Rica fue una de las primeras comunidades en donde me involucré de lleno, esta comunidad trata de empoderar a las mujeres en el área STEM. Llegue a ella de pura casualidad, me invitaron a un evento de la empresa Intel llamado “Mujeres Extraordinarias”,  típico de mi dado a que me da miedo los ambientes amplios, invité a mi mejor amiga y la madrina de mi hijo, que además! no es de presumir pero es una de las mejores developers que conozco. Y es enserio es la mejor! Cindy, ahí las dos nos fuimos muy sociables!  
+(para los que nos conocen en persona enteran el sarcasmo implícito en esa frase!)  
+En ese evento la idea era crear networking pero además compartir con mujeres en el área; pocas veces existen en Costa Rica eventos de este tipo.
+
+Durante el evento contamos con varias charlas, una de ellas fue la de Blanca Navarro, una mujer sin temores una de esas personas que la vez y dices como hace!  
+Pues si, en esa charla ella hablaba de SWE, yo no conocía de la comunidad y además andaba en búsqueda de colaboradores y pues adivinen quien días después le escribió!
+
+Después de ese primer contacto trate de apoyar a la comunidad en todo lo que estuviera a mi alcance, hoy en día soy responsable de las redes sociales de la comunidad y además apoyo a las demás áreas, somos un grupo de mujeres extraordinarias realmente y cada quien con una historia marcada. Los invito a seguirnos de paso!
+
+![](images/SWE.jpg)
+
+Después de haber ingresado a SWE mi esposo me invita a acompañarlo a Uruguay a realizar una presentación acerca de Cypress.io, su primera presentación fuera de Costa Rica. Claro, yo amo viajar pero detesto las alturas sobre todas las cosas del mundo.  
+Y bueno ese viaje sería la primera vez que volaba más de 3 horas, era hacia el lado contrario y en mi cabeza todos los temores de dejar a Fede con los abuelos llegaban, en un inicio dije que no! Pero obvio al final acepté, él regresaba de un viaje de la empresa en donde laboraba y ese mismo día viajamos a Uruguay, a la convención de TestingUY. En Uruguay conocí personas super amables y con experiencias invaluables.
+
+Después de ese viaje me involucre en la comunidad y ha pasado un año desde entonces, en ella coordino charlas, me involucro en los social media y realizó conexiones con compañías para llevar meetups presenciales.
+
+![](images/TestingCR.png)
+
+Cada una de estas comunidades ha marcado mi crecimiento personal de maneras que no les puedo explicar, cada una tiene un gran espacio en mi corazón. Me encanta conectar con las personas y ser un granito de arena para lograr un cambio o ayudarlas en su propio camino.
+
+Acá les dejo las redes sociales para que nos sigan:
+
+SWE Costa Rica: [https://www.facebook.com/swecostarica](https://www.facebook.com/swecostarica "https://www.facebook.com/swecostarica")  
+TestingCR: [https://www.facebook.com/testingcr](https://www.facebook.com/swecostarica "https://www.facebook.com/swecostarica")
