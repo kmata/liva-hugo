@@ -2,7 +2,6 @@
 categories = []
 date = 2020-08-10T02:47:47Z
 description = "Primer Post"
-draft = true
 image = "images/post/QA-Mom-logo.png"
 tags = []
 title = "Prueba"
