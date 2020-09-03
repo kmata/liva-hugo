@@ -9,3 +9,11 @@ type = "post"
 
 +++
 # QA desde la comunidad
+
+<hr>
+
+El futuro pertenece a quienes creen en la belleza de sus sueños
+
+Amelia Earhar
+
+<hr>
