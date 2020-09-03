@@ -4,11 +4,11 @@ date = 2020-08-10T02:47:47Z
 description = "Primer Post"
 image = "images/post/QA-Mom-logo.png"
 tags = []
-title = "Prueba"
+title = "QA desde la comunidad"
 type = "post"
 
 +++
-# Prueba
+# QA desde la comunidad
 
 Hace varios años descubrí que me encanta escribir, al igual que hablar!  
 Se desde mi perspectiva personal que hay muchas áreas en las que debo mejorar tanto como ser humano y profesional, pero quisiera compartir mi camino para llegar a esa meta con el mundo y las personas que quieran acompañarme en ese camino.
