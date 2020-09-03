@@ -2,7 +2,7 @@
 categories = []
 date = 2020-08-10T02:47:47Z
 description = "Primer Post"
-image = "images/post/SWE.jpg"
+image = "images/SWE.jpg"
 tags = []
 title = "QA desde la comunidad"
 type = "post"
