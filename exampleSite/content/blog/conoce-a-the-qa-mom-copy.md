@@ -6,7 +6,7 @@ draft = true
 image = "images/post/QA-Mom-logo.png"
 tags = []
 title = "Conoce a The QA Mom-(copy)"
-type = "featured"
+type = "post"
 
 +++
 # Conoce a The QA Mom
