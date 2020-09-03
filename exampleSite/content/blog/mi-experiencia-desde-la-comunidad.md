@@ -2,6 +2,7 @@
 categories = []
 date = 2020-09-04T02:47:47Z
 description = "Mi experiencia desde la comunidad"
+draft = true
 image = "images/SWW.jpg"
 tags = []
 title = "Mi experiencia desde la comunidad"
