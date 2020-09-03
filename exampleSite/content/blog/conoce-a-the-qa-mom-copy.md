@@ -5,11 +5,11 @@ description = "Primer Post"
 draft = true
 image = "images/post/QA-Mom-logo.png"
 tags = []
-title = "Conoce a The QA Mom-(copy)"
+title = "Prueba"
 type = "post"
 
 +++
-# Conoce a The QA Mom
+# Prueba
 
 Hace varios años descubrí que me encanta escribir, al igual que hablar!  
 Se desde mi perspectiva personal que hay muchas áreas en las que debo mejorar tanto como ser humano y profesional, pero quisiera compartir mi camino para llegar a esa meta con el mundo y las personas que quieran acompañarme en ese camino.
