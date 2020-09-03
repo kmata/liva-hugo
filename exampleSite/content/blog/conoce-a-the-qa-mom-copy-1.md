@@ -2,10 +2,9 @@
 categories = []
 date = 2020-09-04T02:47:47Z
 description = "QA desde la comunidad"
-draft = true
 image = "images/post/SWE.jpg"
 tags = []
-title = "Conoce a The QA Mom-(copy)"
+title = "QA desde la comunidad"
 type = "post"
 
 +++
