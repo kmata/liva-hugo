@@ -5,7 +5,7 @@ image: images/post/QA-Mom-logo.png
 description: Primer Post
 categories: []
 tags: []
-type: featured
+type: post
 
 ---
 # Conoce a The QA Mom
