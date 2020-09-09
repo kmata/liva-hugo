@@ -39,7 +39,7 @@ Y bueno ese viaje sería la primera vez que volaba más de 3 horas, era hacia el
 
 Después de ese viaje me involucre en la comunidad y ha pasado un año desde entonces, en ella coordino charlas, me involucro en los social media y realizó conexiones con compañías para llevar meetups presenciales.
 
-![](images/post/TestingCR.png)
+![](https://theqamom.com/images/post/TestingCR.png)
 
 Cada una de estas comunidades ha marcado mi crecimiento personal de maneras que no les puedo explicar, cada una tiene un gran espacio en mi corazón. Me encanta conectar con las personas y ser un granito de arena para lograr un cambio o ayudarlas en su propio camino.
 
