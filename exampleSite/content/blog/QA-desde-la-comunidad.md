@@ -4,8 +4,6 @@ date: 2020-08-10T02:47:47.000+00:00
 image: images/post/SWE.jpg
 description: Primer Post
 categories:
-- QA
-- Community
 - Testing
 tags: []
 type: post
